@@ -5,8 +5,9 @@ semantic information. And at last applied Inverse document frequency method to i
 and recommendations or marketing purpose.
 
 Libraries used :- 
-Beautifulsoup for Data Scraping ,
-pandas , numpy , seaborn , matplotlib for Data Preprocessing
-TfidfVectorizer , pylDavis , Wordcloud , nltk for Topic Modelling Process
-sentence transformer , tensorflow for Sentence Embedding technique
-spacy, typing-extensions for Inverse Document Frequency.
+
+1].Beautifulsoup for Data Scraping ,
+2].pandas , numpy , seaborn , matplotlib for Data Preprocessing
+3].TfidfVectorizer , pylDavis , Wordcloud , nltk for Topic Modelling Process
+4].sentence transformer , tensorflow for Sentence Embedding technique
+5].spacy, typing-extensions for Inverse Document Frequency.
