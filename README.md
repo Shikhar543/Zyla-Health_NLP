@@ -1,4 +1,14 @@
-Zyla Health wants to improve Search Engine results and wants to analyze customer reviews and feedbacks using their app.
+Business Problem Statement:
+Context:
+Zyla Health, a digital health platform, aims to improve its search engine visibility (SEO) and enhance customer understanding through advanced analysis of user reviews and feedback collected via the Google Play Store. Currently, the company struggles to identify which aspects of the app are most appreciated, which cause dissatisfaction, and which keywords or phrases can drive more meaningful engagement online.
+Despite receiving a large volume of customer reviews and ratings, Zyla Health lacks a structured, data-driven approach to extract actionable insights from this unstructured feedback. This leads to missed opportunities in SEO improvement, customer sentiment understanding, feature prioritization, and content optimization.
+
+Objective:
+To leverage Natural Language Processing (NLP) techniques to analyze customer reviews and feedback, and:
+Identify key themes and topics through topic modeling.
+Extract high-value keywords using Inverse Document Frequency (IDF) for SEO and marketing content.
+Use sentence embedding to understand the context of user reviews and queries.
+Generate insights to improve app features, user satisfaction, and customer support strategies.
 
 Key Process :-
 
